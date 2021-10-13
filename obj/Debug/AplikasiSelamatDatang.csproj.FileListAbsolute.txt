@@ -1,0 +1,12 @@
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\bin\Debug\dje\AplikasiSelamatDatang.resources.dll
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csprojResolveAssemblyReference.cache
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.frmSelamatDatang.resources
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.frmSelamatDatang.dje.resources
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.Cache
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\dje\AplikasiSelamatDatang.resources.dll
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+D:\PROGRAM LANJUTAN\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb
